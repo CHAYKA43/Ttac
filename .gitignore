@@ -1,0 +1,16 @@
+.dub
+docs.json
+__dummy.html
+docs/
+/ttac
+ttac.so
+ttac.dylib
+ttac.dll
+ttac.a
+ttac.lib
+ttac-test-*
+*.exe
+*.pdb
+*.o
+*.obj
+*.lst
